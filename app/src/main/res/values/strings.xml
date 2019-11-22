@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamenParcialAndroid</string>
+    <string name="question_title">Question title</string>
+    <string name="answer">Answer</string>
+</resources>
