@@ -10,6 +10,8 @@ import retrofit2.Response
 
 class MainActivity : AppCompatActivity() {
 
+    // Master branch
+
     lateinit var recyclerView: RecyclerView
     lateinit var recyclerAdapter: RecyclerAdapter
 
