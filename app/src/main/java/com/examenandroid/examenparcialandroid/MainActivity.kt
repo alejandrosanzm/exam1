@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
     lateinit var recyclerAdapter: RecyclerAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
+
+        // ob
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
